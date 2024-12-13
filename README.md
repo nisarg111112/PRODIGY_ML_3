@@ -1,7 +1,7 @@
 # Cats vs Dogs Image Classification with SVM
 #### This repository demonstrates how to build a machine learning model for classifying images of cats and dogs using Support Vector Machines (SVM). The model is trained on the Microsoft Cats vs. Dogs dataset, and the process includes preprocessing images, training the SVM classifier, and evaluating the model performance.
 
-### Project Overview
+### Project Overview:
 #### This project uses a simple SVM classifier to distinguish between cat and dog images. The steps include:
 #### 1. Data Preprocessing: Images are loaded, resized, converted to grayscale, and flattened to create feature vectors.
 #### 2. Model Training: The data is split into training and testing sets, and an SVM classifier is trained on the data.
